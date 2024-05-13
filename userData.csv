@@ -1,0 +1,21 @@
+Name,Pronouns,Bio,Password,Age,Gender,Mode,UniId,MajorId,StudyDays,StudyTimes,AgeWeight,GenderWeight,ModeWeight,UniWeight,MajorWeight,DaysWeight,TimesWeight
+Bob,she/her,Music enthusiast,pass5906,20,1,1,5,0,1000000,01010,4.6385,3.04898,7.94271,0.716972,0.921952,3.5473,22.8657
+Charlie,he/him,Music enthusiast,pass2614,18,2,1,1,4,0101101,01101,9,5,3,1,2,9,3
+David,he/him,Music enthusiast,pass247,21,0,0,6,4,0011000,10110,1,10,10,2,6,2,7
+Eve,she/her,Enjoys sports,pass40,44,1,0,7,1,1101010,01011,10,6,6,2,5,8,4
+Frank,he/him,Music enthusiast,pass1233,21,1,1,0,0,1100010,00011,4,9,7,2,7,1,1
+Grace,they/them,Loves coding,pass2795,39,0,1,1,2,0000010,11001,10,7,1,5,1,2,3
+Helen,they/them,Enjoys sports,pass114,69,0,0,4,4,0010010,10100,4,7,3,4,8,3,5
+Ian,he/him,Enjoys sports,pass9464,22,0,1,0,2,1111100,00110,5,1,4,7,4,8,4
+Jane,they/them,Enjoys sports,pass3779,10,0,1,4,0,1000011,00110,2,10,10,8,4,1,9
+Kyle,they/them,Loves coding,pass3474,20,0,1,7,4,0101000,10001,3,8,1,6,7,4,10
+Laura,they/them,Loves coding,pass7228,22,1,0,0,4,0001101,01111,2,1,4,10,5,7,3
+Mason,she/her,Enjoys sports,pass6214,19,1,0,0,4,1110101,00100,10,6,10,1,6,7,6
+Nina,she/her,Music enthusiast,pass9920,12,2,0,3,4,1101000,10011,6,5,10,9,9,6,5
+Oscar,they/them,Music enthusiast,pass5187,18,1,1,1,4,0101000,01110,8,3,1,3,6,1,6
+Paula,he/him,Loves coding,pass3340,30,0,1,0,2,0010111,00001,8,8,7,2,9,8,6
+Quinn,they/them,Loves coding,pass3623,11,1,1,6,3,1001101,10101,8,3,8,5,5,3,10
+Rosa,he/him,Music enthusiast,pass4856,8,1,0,2,1,0000001,00000,6,5,2,1,10,2,10
+Steve,she/her,Music enthusiast,pass63,22,1,1,7,2,1000001,11010,8,10,2,9,5,6,4
+Tina,she/her,Enjoys sports,pass5564,18,2,0,1,3,1100010,11000,1,1,2,10,1,4,4
+,,,,18,2,0,1,3,,,1,1,2,10,1,4,4
